@@ -1,4 +1,4 @@
-# ML-echo-meetings
+# ML-Echo-meetings
 Schedule for cross-institutional scientific meetings on machine learning and echocardiography.
 Please feel free to send an email to preetrb@uio.no to sign up for a slot to present your work, a paper, or something interesting to discuss. 
 
