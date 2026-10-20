@@ -7,11 +7,12 @@ Each meeting should have 2 or 3 different topics.
 ## Schedule
 | Date        | Topic                                                | Presenter |
 |-------------|------------------------------------------------------|-----------|
-| 17.11.26    | Free Slot                                            |           |
-|             | Free Slot                                            |           |
+| 17.11.26    | **Free Slot**                                           |           |
+|             | **Free Slot**                                           |           |
 |             |                                                      |           |
 | 03.11.26    | MICCAI 2026 Interesting Reads Report                 | Durgesh   |
 |             | Paper Discussion                                     | Preetraj  |
+|             | **Free Slot**                                            |           |
 |             |                                                      |           |
 | 20.10.26    | Quick Introduction & Research topic Overview by all  | Everyone  |
 |             | SuperCM for Few-Shot Medical Segmentation            | Durgesh   |
