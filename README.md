@@ -11,11 +11,10 @@ Each meeting should have 2 or 3 different topics.
 |             | Free Slot                                            |           |
 |             |                                                      |           |
 | 03.11.26    | MICCAI 2026 Interesting Reads Report                 | Durgesh   |
-|             | Free Slot                                            |           |
+|             | Paper Discussion                                     | Preetraj  |
 |             |                                                      |           |
 | 20.10.26    | Quick Introduction & Research topic Overview by all  | Everyone  |
 |             | SuperCM for Few-Shot Medical Segmentation            | Durgesh   |
-|             | Paper Discussion                                     | Preetraj  |
 |-------------|------------------------------------------------------|-----------|
 | 24.06.26    | MVAA 3D mitral valve segmentation challenge update   | Durgesh   |
 |             | 3D mitral valve segmentation for improved VFI        | Hang Jung |
