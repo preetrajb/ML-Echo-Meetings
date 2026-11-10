@@ -14,7 +14,6 @@ Each meeting should have 2 or 3 different topics.
 |             | **Free Slot**                                        |           |
 |             |                                                      |           |
 | 10.11.26    | MICCAI 2026 Interesting Reads Report                 | Durgesh   |
-|             | Paper Discussion                                     | Preetraj  |
 |             |                                                      |           |
 | 03.11.26    | *Meeting postponed*                                  |           |
 |             |                                                      |           |
