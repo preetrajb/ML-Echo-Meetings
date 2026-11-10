@@ -10,7 +10,7 @@ Each meeting should have 2 or 3 different topics.
 | 01.12.26    | **Free Slot**                                        |           |
 |             | **Free Slot**                                        |           |
 |             |                                                      |           |
-| 17.11.26    | **Free Slot**                                        |           |
+| 24.11.26    | Paper Discussion: nnFoundation                       | Preetraj  |
 |             | **Free Slot**                                        |           |
 |             |                                                      |           |
 | 10.11.26    | MICCAI 2026 Interesting Reads Report                 | Durgesh   |
