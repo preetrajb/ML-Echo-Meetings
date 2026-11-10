@@ -15,8 +15,6 @@ Each meeting should have 2 or 3 different topics.
 |             |                                                      |           |
 | 10.11.26    | MICCAI 2026 Interesting Reads Report                 | Durgesh   |
 |             |                                                      |           |
-| 03.11.26    | *Meeting postponed*                                  |           |
-|             |                                                      |           |
 | 20.10.26    | Quick Introduction & Research topic Overview by all  | Everyone  |
 |             | SuperCM for Few-Shot Medical Segmentation            | Durgesh   |
 |-------------|------------------------------------------------------|-----------|
