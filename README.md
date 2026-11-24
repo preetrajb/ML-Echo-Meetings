@@ -7,11 +7,14 @@ Each meeting should have 2 or 3 different topics.
 ## Schedule
 | Date        | Topic                                                | Presenter |
 |-------------|------------------------------------------------------|-----------|
-| 01.12.26    | **Free Slot**                                        |           |
+| 15.12.26    | **Free Slot**                                        |           |
 |             | **Free Slot**                                        |           |
 |             |                                                      |           |
-| 24.11.26    | Paper Discussion: nnFoundation                       | Preetraj  |
+| 01.12.26    | Paper Discussion: nnFoundation                       | Preetraj  |
 |             | **Free Slot**                                        |           |
+|             | **Free Slot**                                        |           |
+|             |                                                      |           |
+| 24.11.26    | *meeting cancelled*                                  |           |
 |             |                                                      |           |
 | 10.11.26    | MICCAI 2026 Interesting Reads Report                 | Durgesh   |
 |             |                                                      |           |
