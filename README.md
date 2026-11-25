@@ -11,8 +11,7 @@ Each meeting should have 2 or 3 different topics.
 |             | **Free Slot**                                        |           |
 |             |                                                      |           |
 | 01.12.26    | Paper Discussion: nnFoundation                       | Preetraj  |
-|             | **Free Slot**                                        |           |
-|             | **Free Slot**                                        |           |
+|             | Multimodal Learning in Echo                          | Duane     |
 |             |                                                      |           |
 | 24.11.26    | *meeting cancelled*                                  |           |
 |             |                                                      |           |
